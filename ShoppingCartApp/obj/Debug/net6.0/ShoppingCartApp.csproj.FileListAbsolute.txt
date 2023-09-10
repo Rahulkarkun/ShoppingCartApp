@@ -1,0 +1,15 @@
+D:\Session 18\ShoppingCartApp\bin\Debug\net6.0\ShoppingCartApp.exe
+D:\Session 18\ShoppingCartApp\bin\Debug\net6.0\ShoppingCartApp.deps.json
+D:\Session 18\ShoppingCartApp\bin\Debug\net6.0\ShoppingCartApp.runtimeconfig.json
+D:\Session 18\ShoppingCartApp\bin\Debug\net6.0\ShoppingCartApp.dll
+D:\Session 18\ShoppingCartApp\bin\Debug\net6.0\ShoppingCartApp.pdb
+D:\Session 18\ShoppingCartApp\obj\Debug\net6.0\ShoppingCartApp.csproj.AssemblyReference.cache
+D:\Session 18\ShoppingCartApp\obj\Debug\net6.0\ShoppingCartApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Session 18\ShoppingCartApp\obj\Debug\net6.0\ShoppingCartApp.AssemblyInfoInputs.cache
+D:\Session 18\ShoppingCartApp\obj\Debug\net6.0\ShoppingCartApp.AssemblyInfo.cs
+D:\Session 18\ShoppingCartApp\obj\Debug\net6.0\ShoppingCartApp.csproj.CoreCompileInputs.cache
+D:\Session 18\ShoppingCartApp\obj\Debug\net6.0\ShoppingCartApp.dll
+D:\Session 18\ShoppingCartApp\obj\Debug\net6.0\refint\ShoppingCartApp.dll
+D:\Session 18\ShoppingCartApp\obj\Debug\net6.0\ShoppingCartApp.pdb
+D:\Session 18\ShoppingCartApp\obj\Debug\net6.0\ShoppingCartApp.genruntimeconfig.cache
+D:\Session 18\ShoppingCartApp\obj\Debug\net6.0\ref\ShoppingCartApp.dll
